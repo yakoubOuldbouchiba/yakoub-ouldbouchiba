@@ -46,13 +46,6 @@ Tech: Java, Spring Data JPA, Specification API
 
 ---
 
-## 📈 GitHub Stats
-
-![Yakoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_title=true)
-![Yakoub's GitHub Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yakoub-ould-bouchiba)
